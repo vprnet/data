@@ -3,6 +3,8 @@ VPR Data
 
 All data used to create VPR News Applications will be published in this repository.
 
+This data is free to use, repurpose, and republish. See the included LICENSE for the legalese.
+
 ##Directory Naming Convention
 
 Data will be organized by project and build. The VPR Apps URL convention is as follows: http://www.vpr.net/apps/PROJECT-NAME/BUILD-NAME
