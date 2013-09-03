@@ -1,4 +1,5 @@
 #Federal Build
+A general variable naming convention has been used for the CSV column titles. These are often, though not always self explanatory. If a particular variable has broken from convention or requires an additional description, it is explained below.
 
 ##Variable Definitions
 
