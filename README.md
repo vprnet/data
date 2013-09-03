@@ -1,14 +1,14 @@
 VPR Data
 ====
 
-This repository contains data sources for VPR news applications
+All data used to create VPR News Applications will be published in this repository.
 
 ##Geospatial Data
 
 Contains topojson files used for various Vermont maps.
 
 ##Mapping the Money
-Contains CSV files of the data used to
+Contains CSV files of the data used in the [Mapping the Money](http://www.vpr.net/apps/mapping-the-money/fed) project.
 
 ##Copyright and License
 
