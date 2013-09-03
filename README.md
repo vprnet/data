@@ -3,6 +3,12 @@ VPR Data
 
 All data used to create VPR News Applications will be published in this repository.
 
+##Directory Naming Convention
+
+Data will be organized by project and build. The VPR Apps URL convention is as follows: http://www.vpr.net/apps/PROJECT-NAME/BUILD-NAME
+
+To find data for a particular build, go to the project directory and then the build directory. Each build directory is home to a README file explaining the data for that particular build.
+
 ##Geospatial Data
 
 Contains topojson files used for various Vermont maps.
