@@ -5,11 +5,28 @@ All data used to create VPR News Applications will be published in this reposito
 
 This data is free to use, repurpose, and republish. See the included LICENSE for the legalese.
 
-##Directory Naming Convention
+##Naming Conventions
 
-Data will be organized by project and build. The VPR Apps URL convention is as follows: http://www.vpr.net/apps/PROJECT-NAME/BUILD-NAME
+###Directories
+
+Data will be organized by project and build. The VPR Apps URL convention is as follows: `http://www.vpr.net/apps/project-name/build-name`
 
 To find data for a particular build, go to the project directory and then the build directory. Each build directory is home to a README file explaining the data for that particular build.
+
+###Variables
+
+Variables are named using the following considerations, in order of importance:
+
+1. Descriptive
+2. Succinct
+3. Consistent across:
+    1. Build
+    2. Project
+    3. Repository
+
+This naming convention has been applied to all of the CSV column headers throughtout this repository. Variable names are often, though not always, self explanatory. For variables that break any established convention, or require an additional description, a README has been included in every build.
+
+##Project Descriptions
 
 ##Geospatial Data
 
