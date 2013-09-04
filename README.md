@@ -28,11 +28,11 @@ This naming convention has been applied to all of the CSV column headers through
 
 ##Project Descriptions
 
-##Geospatial Data
+###Geospatial Data
 
 Contains topojson files used for various Vermont maps.
 
-##Mapping the Money
+###Mapping the Money
 Contains CSV files of the data used in the [Mapping the Money](http://www.vpr.net/apps/mapping-the-money/fed) project.
 
 ##Copyright and License
